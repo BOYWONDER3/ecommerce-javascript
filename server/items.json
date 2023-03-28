@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Learn React Today",
+        "priceInCents": 10000,
+        "file": "leaen-react-today.txt"
+    },
+
+    {
+        "id": 1,
+        "name": "Learn CSS Today",
+        "priceInCents": 20000,
+        "file": "leaen-css-today.txt"
+    },
+
+    {
+        "id": 1,
+        "name": "Javascript Simplified",
+        "priceInCents": 30000,
+        "file": "javascript-simplified.txt"
+    }
+]
